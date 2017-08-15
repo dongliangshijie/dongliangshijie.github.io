@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-08-15T19:33:29.298Z</updated>
+  <updated>2017-08-15T19:36:22.729Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,11 +16,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>mysecondblog</title>
+    <title>配置next主题，在一个漂亮的网页下开始写第一篇博客</title>
     <link href="http://yoursite.com/2017/08/16/mysecondblog/"/>
     <id>http://yoursite.com/2017/08/16/mysecondblog/</id>
     <published>2017-08-15T19:21:31.000Z</published>
-    <updated>2017-08-15T19:33:29.298Z</updated>
+    <updated>2017-08-15T19:36:22.729Z</updated>
     
     <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>本来想第二天晚上就把next主题配置写上来着。结果那天突发奇想琢磨做个手机应用，查各种教程，安装Andriodstudio的时候遇到各种问题，网上那群废物给的意见10个有8个是没用的，两天下来成功吧电脑搞废掉了，我能咋办我也很绝望呀。</p>
 <p>俗话说，一只小强的灭亡伴随着千千万万小强的崛起。准备好电脑重做系统，从头再来一遍。正好一边做还能顺便把这篇博客写了，不费话了说干就干。</p>
